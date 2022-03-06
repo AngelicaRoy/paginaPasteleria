@@ -1,0 +1,67 @@
+.usuario{
+    height: 150px;
+    width: 120px;
+}
+.usuario:hover{
+    height: 150px;
+    width: 120px;
+    opacity: .7;
+}
+.tipo{
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+#uno{
+    float:left;
+}
+#dos{
+    float: left;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'BhuTuka Expanded One', cursive;
+}
+.arriba{
+    margin-top: -20px;
+    padding:-10px;
+}
+.logo{
+    margin-bottom: -80px;
+    height: 130px;
+    width: 130px;
+}
+.principal{
+width: 450px;
+height: 200px;
+margin-right: auto;/*margin-left y margin-right ce centro div*/
+margin-left: auto;
+}
+a{
+    text-decoration: none;
+}
+h3{
+    font-size: 21px;
+    font-family: 'Courier New', Courier, monospace;
+    color:#FA8072;
+}
+.adm{
+   text-align: center;
+}
+.usu{
+    text-align: center;
+}
+.img-foot{
+height: 30px;
+width: 30px;
+}
+
+
+
+
+
+
+
+
